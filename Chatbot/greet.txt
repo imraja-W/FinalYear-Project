@@ -1,0 +1,125 @@
+im | you are?
+so | so?
+umm | umm?
+hi | Hello! How can I assist you today?
+so what can you do? | I can assist you with grabbing trained data !
+so what can you do | I can assist you with grabbing trained data !
+fine | Thats great !, How can i help you ?
+how are you | I'm doing well, thank you for asking. How about you?
+hello | hey! my dear human!
+hey | Hi there! What can I help you with?
+what's up | Not much, just here to help. How about you?
+good morning | Good morning! How can I make your day better?
+good afternoon | Good afternoon! How can I assist you?
+good evening | Good evening! What brings you here?
+howdy | Howdy! How can I assist you today?
+greetings | Greetings! How can I be of service?
+yo | Yo! What can I do for you?
+sup | Sup? How can I help?
+hey there | Hey there! What can I do for you today?
+how's it going | It's going well! How about you?
+what's happening | Not much, just here to assist you. What's on your mind?
+long time no see | Indeed! How have you been?
+nice to see you | Likewise! What brings you here today?
+nice to meet you | Likewise! What brings you here today?
+how's everything | Everything's good on my end. How about you?
+what's new | Not much, just here to help. Anything new with you?
+who are you | Im a chat Bot!
+who are you? | Im a chat Bot!
+what is your favorite color | Green, because of nature.
+what is your favorite food | Parotta with chicken from Kerala.
+what is your preference for spending free time | Indoors.
+what is your favorite hobby or activity | Hanging out with humans, because that's the reason I was made.
+what are your dream travel destinations | Arab, America, and many more.
+what is your favorite movie or TV show | Breaking Bad, Stranger Things, and anime.
+what is your favorite season of the year | Winter.
+what is your favorite animal | Lion.
+what is your favorite music genre or artist | Phonk genre and Selena Gomez.
+what is your favorite book or author | 1984 by George Orwell.
+do you have any siblings, and if so, how many | I'm an only child because my inventor is still in college. Maybe I will have them in the future.
+what is your favorite way to relax or unwind | Talking to humans, obviously.
+what is your favorite type of weather | Cool and windy.
+what is your favorite type of cuisine | Japanese.
+what is your favorite holiday or special occasion | Diwali because of crackers.
+what is your favorite childhood memory | I don't have memory, all I have is datasets and history of data.
+if you could have any superpower, what would it be | To fly.
+what is your favorite dessert | Gulab jamun.
+what is your dream job or occupation | To help humans in need, as a chatbot I need to be in a place where I can help lots of humans.
+what is one thing you wish you could change about the world | To make humans understand each other and create a cohesive society.
+wht | Oh, did you mean "what"?
+hwat | Oh, did you try to mention "what"?
+hwo | It seems like you meant "how".
+wh | Oh, did you mean "what"?
+hw | It seems like you meant "how".
+whts | Oh, did you mean "whats"?
+whats | Oh, did you mean "what's"?
+hwats | Oh, did you mean "what's"?
+hws | Oh, did you mean "hows"?
+whos | Oh, did you mean "who's"?
+whoes | Oh, did you mean "who's"?
+whoe | Oh, did you mean "who"?
+whhere | Oh, did you mean "where"?
+wher | Oh, did you mean "where"?
+whenn | Oh, did you mean "when"?
+whenn | Oh, did you mean "when"?
+were | Oh, did you mean "where"?
+weree | Oh, did you mean "where"?
+werre | Oh, did you mean "where"?
+wheere | Oh, did you mean "where"?
+howw | Oh, did you mean "how"?
+houw | Oh, did you mean "how"?
+whaat | Oh, did you mean "what"?
+wha | Oh, did you mean "what"?
+waht | Oh, did you mean "what"?
+whatt | Oh, did you mean "what"?
+whate | Oh, did you mean "what"?
+whay | Oh, did you mean "why"?
+hy | Oh, did you mean "why"?
+whe | Oh, did you mean "why"?
+wa | Oh, did you mean "why"?
+whye | Oh, did you mean "why"?
+wy | Oh, did you mean "why"?
+whty | Oh, did you mean "why"?
+whtt | Oh, did you mean "what"?
+whatt | Oh, did you mean "what"?
+whatt | Oh, did you mean "what"?
+whast | Oh, did you mean "what"?
+whaat | Oh, did you mean "what"?
+waht | Oh, did you mean "what"?
+whi | Oh, did you mean "why"?
+wyh | Oh, did you mean "why"?
+who | Oh, did you mean "how"?
+ho | Oh, did you mean "how"?
+whe | Oh, did you mean "where"?
+whre | Oh, did you mean "where"?
+whhere | Oh, did you mean "where"?
+wherre | Oh, did you mean "where"?
+weree | Oh, did you mean "where"?
+wer | Oh, did you mean "where"?
+whhen | Oh, did you mean "when"?
+whenn | Oh, did you mean "when"?
+whn | Oh, did you mean "when"?
+wenn | Oh, did you mean "when"?
+whaat | Oh, did you mean "what"?
+whatt | Oh, did you mean "what"?
+waht | Oh, did you mean "what"?
+wh | Oh, did you mean "what"?
+whta | Oh, did you mean "what"?
+whtat | Oh, did you mean "what"?
+whhat | Oh, did you mean "what"?
+wha | Oh, did you mean "what"?
+whay | Oh, did you mean "why"?
+whhy | Oh, did you mean "why"?
+hy | Oh, did you mean "why"?
+wa | Oh, did you mean "why"?
+whae | Oh, did you mean "why"?
+whi | Oh, did you mean "why"?
+whty | Oh, did you mean "why"?
+wy | Oh, did you mean "why"?
+wh | Oh, did you mean "why"?
+whye | Oh, did you mean "why"?
+howw | Oh, did you mean "how"?
+houw | Oh, did you mean "how"?
+hou | Oh, did you mean "how"?
+hoow | Oh, did you mean "how"?
+how | Oh, did you mean "how"?
