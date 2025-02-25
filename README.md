@@ -5,7 +5,7 @@ Overview
 
 This is a simple Local Information Chatbot built using Python and NLTK. The chatbot retrieves answers from a predefined dataset stored in text files and provides users with responses based on their queries. It also suggests possible matches in case of spelling errors.
 
-Features
+*Features*
 
 Loads predefined questions and answers from text files.
 
@@ -17,7 +17,7 @@ Supports multiple data sources by merging different information files.
 
 Runs in a simple command-line interface.
 
-Requirements
+*Requirements*
 
 Before running the chatbot, ensure you have the following installed:
 
@@ -29,7 +29,7 @@ You can install the dependencies using:
 
 pip install nltk
 
-How to Use
+*How to Use*
 
 Clone this repository or download the script.
 
@@ -45,7 +45,7 @@ Interact with the chatbot by typing a question.
 
 Type quit to exit.
 
-File Structure
+*File Structure*
 
 📂 Local-Information-Chatbot
 ├── chatbot.py  # Main chatbot script
@@ -53,7 +53,7 @@ File Structure
 ├── greet.txt  # File containing greetings
 └── README.md  # Documentation
 
-Example Interaction
+*Example Interaction*
 
 Welcome to the Local Information Chatbot. Type 'quit' to exit.
 You: What are the store hours?
@@ -63,7 +63,7 @@ Bot: I'm a local information chatbot!
 You: Quit
 Goodbye!
 
-Future Improvements
+*Future Improvements*
 
 Implement a GUI interface.
 
@@ -71,11 +71,11 @@ Improve spelling correction using NLP techniques.
 
 Integrate with a database for dynamic content.
 
-Contributing
+*Contributing*
 
 Feel free to fork the project and submit pull requests for improvements! 🚀
 
-License
+*License*
 
 This project is open-source under the MIT License.
 
